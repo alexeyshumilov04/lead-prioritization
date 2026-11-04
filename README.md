@@ -1,4 +1,4 @@
-# 🚗 Lead Prioritization — Predicting Successful Conversions in 5 Days
+# 🚗 Lead Prioritization — Predicting Successful Conversions 
 
 [![Python](https://img.shields.io/badge/Python-3.11-blue.svg)](https://www.python.org/)
 [![CatBoost](https://img.shields.io/badge/CatBoost-1.x-yellow.svg)](https://catboost.ai/)
